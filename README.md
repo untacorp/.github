@@ -1,2 +1,2 @@
 # .github
-company description
+repository for company profile and description
